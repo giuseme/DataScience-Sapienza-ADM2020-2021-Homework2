@@ -5,5 +5,3 @@ all the material related to the third homework of the course ADM 2020/2021 for D
 
 1.  **```Homework_3 (final).ipynb```**:
 > Jupyter notebook containing all the answers to the questions of Assignment 3.
-2.  **```Books tsv files.zip```**:
-> Zip file where all the tsv files of the first 15000 books are listed.
