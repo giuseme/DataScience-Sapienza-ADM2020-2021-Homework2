@@ -1,5 +1,5 @@
 # DataScience-Sapienza-ADM2020-2021-Homework3
-DataScience-Sapienza-ADM2020/2021-Homework1 is the repository where I upload 
+DataScience-Sapienza-ADM2020/2021-Homework3 is the repository where I upload 
 all the material related to the third homework of the course ADM 2020/2021 for Data Science at University of Sapienza in Rome.
 
 
